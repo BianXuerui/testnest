@@ -1,0 +1,8 @@
+Post http://localhost:3000/girl/addpost
+Content-Type: application/json
+
+{
+    "id": 3,
+    "name": "666666666",
+    "age": 18
+}
